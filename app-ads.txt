@@ -1,4 +1,1 @@
-# Archivo app-ads.txt para [Nombre de tu App]
-# Creado el [Fecha]
 google.com, pub-9759663242433291, DIRECT, f08c47fec0942fa0
-# Fin del archivo
